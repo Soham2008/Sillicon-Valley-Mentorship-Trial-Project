@@ -1,0 +1,21 @@
+.grid {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.showcase video {
+    position: fixed;
+    bottom: 11%;
+    opacity: 0.5;
+}
+
+.video-background {
+    position: relative;
+    width: 100%;
+}
+
+.item {
+    text-align: center;
+}
